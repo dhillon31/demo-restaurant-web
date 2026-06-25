@@ -37,7 +37,7 @@ foods.forEach(food => {
         <h3>${food.name}</h3>
         <div class="price">Rs.${food.price}</div>
 
-        <a href="tel:+919876543210" class="order-btn">
+        <a href="tel:+9198765xxxxx" class="order-btn">
           Order Now
         </a>
       </div>
